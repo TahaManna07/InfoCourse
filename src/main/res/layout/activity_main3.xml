@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="193dp"
+        android:layout_margin="20dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="@string/definition_et_vocabulaire_de_base"
+            tools:layout_editor_absoluteX="153dp"
+            tools:layout_editor_absoluteY="181dp"
+            android:layout_marginTop="10dp"
+            android:textSize="20sp"
+            android:backgroundTint="#2B3467"/>
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="@string/structure_de_base_d_un_ordinateur"
+            tools:layout_editor_absoluteX="163dp"
+            tools:layout_editor_absoluteY="251dp"
+            android:layout_marginTop="10dp"
+            android:backgroundTint="#BAD7E9"
+            android:textSize="20sp"
+            />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="@string/logiciels_et_domaine_d_application_d_informatique"
+            tools:layout_editor_absoluteX="208dp"
+            tools:layout_editor_absoluteY="370dp"
+            android:layout_marginTop="10dp"
+            android:backgroundTint="#F2CD5C"
+            android:textSize="20sp"
+            />
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="Quiz"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="153dp"
+            tools:layout_editor_absoluteY="686dp"
+            android:layout_marginTop="10dp"
+            android:backgroundTint="#F94A29"
+            android:textSize="20sp"
+
+            />
+    </LinearLayout>
+
+
+</RelativeLayout>

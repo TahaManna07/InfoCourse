@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">InfoCourse</string>
+    <string name="saisissez_votre_mot_de_passe">Saisissez votre mot de passe</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="adresse_email">Adresse Email</string>
+    <string name="definition_et_vocabulaire_de_base">Definition et vocabulaire de base</string>
+    <string name="structure_de_base_d_un_ordinateur">Structure de base d\'un ordinateur</string>
+    <string name="logiciels_et_domaine_d_application_d_informatique">Logiciels et domaine d\'application d\'informatique</string>
+    <string name="telecharger">telecharger</string>
+    <string name="title_activity_main5">MainActivity5</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
